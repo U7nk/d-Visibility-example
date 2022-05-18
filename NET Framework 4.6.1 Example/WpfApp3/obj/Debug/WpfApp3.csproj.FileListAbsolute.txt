@@ -1,0 +1,30 @@
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\App.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\nechaev\RiderProjects\WpfApp2\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\App.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\nechaev\RiderProjects\WpfApp2\NET Framework 4.6.1 Example\WpfApp3\obj\Debug\WpfApp3.pdb
